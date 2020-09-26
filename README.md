@@ -16,7 +16,7 @@ This is a personal ongoing project of mine to better display who I am and to fam
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Here is the link to my website: [hdboone.com](hdboone.com)
+Here is the link to my website: [Personal Website](http://hdboone.com/)
 
 <!-- CONTACT -->
 ## Contact
