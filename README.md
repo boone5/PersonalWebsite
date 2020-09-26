@@ -1,4 +1,4 @@
-# PersonalWebsite
+# Personal Website
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
